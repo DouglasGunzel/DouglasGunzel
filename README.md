@@ -7,14 +7,29 @@ Oi, eu sou Douglas Gunzel, tenho 22 anos e sou de Santa Maria, RS. Atualmente es
 ### Linguagens e Tecnologias
 
 <div style="display: inline_block">
-    <img style="align: center" width="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-    <img style="align: center" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-    <img style="align: center" height="35" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <a href="#">
+      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
+    <a href="#">
+      <img alt="typescript" src="https://img.shields.io/badge/typescript-1E84D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
         
 </div>
 
 ##
 
+#### :hammer: Framework
+
+<a href="#">
+      <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+##
+
+
+
+
+### Redes Sociais
 <div>
     <a href="https://github.com/DouglasGunzel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/douglas-gunzel-8112a2181/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
