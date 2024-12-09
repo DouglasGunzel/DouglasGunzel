@@ -1,6 +1,6 @@
-# 👩🏻‍💻Douglas Gunzel
+# :technologist: Douglas Gunzel
 
-`Front-end Developer`
+`Full Stack Developer`
 
 Oi, eu sou Douglas Gunzel, tenho 22 anos e sou de Santa Maria, RS. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Conheci a programação através do Youtube e decidi que queria aprofundar meus conhecimentos, por sempre gostar da área da tecnologia. Venho estudando e me dedicando para conseguir dominar as linguagens e as ferrramentas na área de desenvolvimento.
 
